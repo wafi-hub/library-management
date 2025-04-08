@@ -33,6 +33,7 @@ void add_book();
 void edit_book();
 void view_books();
 
+// Main
 int main() {
     // Initialization
     // Add initial 15 books to the library
